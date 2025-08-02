@@ -13,7 +13,7 @@ Unlike traditional guessing games that use Java's `Random` class to generate a n
 
 ## Purpose
 
-This was one of my first Java projects, created during the early stages of learning the language. The goal was to practice working with methods, logic implementation, and user interaction via the console.
+This was my first Java project, created during the early stages of learning the language. The goal was to practice working with methods, logic implementation, and user interaction via the console.
 
 ## How to Run
 
