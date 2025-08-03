@@ -18,7 +18,7 @@ public class Main {
                     flag = true;
                 } else {
                     if (n > x) {
-                        System.out.println("Your nuber is larger than mine !\nRetry !");
+                        System.out.println("Your number is larger than mine !\nRetry !");
                     } else {
                         System.out.println("Your number is smaller than mine !\nRetry !");
                     }
